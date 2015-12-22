@@ -1,0 +1,49 @@
+﻿Build started 5/19/2015 4:37:41 PM.
+Project "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\src\CourseworkBase.vcxproj" on node 2 (Build target(s)).
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\SDL\include /ZI /nologo /W1 /WX- /Od /Oy- /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\\" /Fd"\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\vc120.pdb" /FR"\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\\" /Gd /TP /analyze- /errorReport:prompt Demo4Object.cpp DemoBObject.cpp DisplayableObject.cpp mainfunction.cpp
+  Demo4Object.cpp
+  DemoBObject.cpp
+  DisplayableObject.cpp
+  mainfunction.cpp
+  Generating Code...
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\CourseworkBase.exe" /NOLOGO /LIBPATH:..\SDL\libx86 SDL2.lib SDL2main.lib SDL2_image.lib SDL2_ttf.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\CourseworkBase.pdb" /MAP:"map" /SUBSYSTEM:CONSOLE /TLBID:1 /ENTRY:"mainCRTStartup" /DYNAMICBASE:NO /IMPLIB:"\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\CourseworkBase.lib" /MACHINE:X86 /SAFESEH "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\DemoAMain.obj"
+  "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\DemoBObject.obj"
+  "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\Gxd01uBallA.obj"
+  "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\Gxd01uBallB.obj"
+  "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\Gxd01uBallBase.obj"
+  "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\Gxd01uMain.obj"
+  "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\Gxd01uPlayer.obj"
+  "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\Gxd01uScrollBg.obj"
+  "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\Gxd01uTileManager.obj"
+  "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\mainfunction.obj"
+  "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\BaseEngine.obj"
+  "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\DisplayableObject.obj"
+  "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\FontManager.obj"
+  "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\JPGImage.obj"
+  "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\SimpleDemo.obj"
+  "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\TileManager.obj"
+  "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\BouncingBall.obj"
+  "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\BouncingBallMain.obj"
+  "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\Demo1Main.obj"
+  "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\Demo2Main.obj"
+  "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\Demo2Object.obj"
+  "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\Demo2TileManager.obj"
+  "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\Demo3Main.obj"
+  "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\Demo3Object.obj"
+  "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\Demo3ObjectFinished.obj"
+  "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\Demo3TileManager.obj"
+  "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\Demo4Main.obj"
+  "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\Demo4Object.obj"
+  "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\Demo4TileManager.obj"
+  LINK : \\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\CourseworkBase.exe not found or not built by the last incremental link; performing full link
+DemoAMain.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  CourseworkBase.vcxproj -> \\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\CourseworkBase.exe
+BscMake:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\bscmake.exe /nologo /o"\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\CourseworkBase.bsc" "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\DemoAMain.sbr" "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\DemoBObject.sbr" "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\Gxd01uBallA.sbr" "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\Gxd01uBallB.sbr" "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\Gxd01uBallBase.sbr" "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\Gxd01uMain.sbr" "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\Gxd01uPlayer.sbr" "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\Gxd01uScrollBg.sbr" "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\Gxd01uTileManager.sbr" "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\mainfunction.sbr" "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\BaseEngine.sbr" "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\DisplayableObject.sbr" "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\FontManager.sbr" "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\JPGImage.sbr" "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\SimpleDemo.sbr" "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\TileManager.sbr" "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\BouncingBall.sbr" "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\BouncingBallMain.sbr" "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\Demo1Main.sbr" "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\Demo2Main.sbr" "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\Demo2Object.sbr" "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\Demo2TileManager.sbr" "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\Demo3Main.sbr" "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\Demo3Object.sbr" "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\Demo3ObjectFinished.sbr" "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\Demo3TileManager.sbr" "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\Demo4Main.sbr" "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\Demo4Object.sbr" "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\/Debug\Demo4TileManager.sbr"
+Done Building Project "\\vmware-host\Shared Folders\Documents\University\G52CPP\Coursework\CPP_CW2015\src\CourseworkBase.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:09.74
