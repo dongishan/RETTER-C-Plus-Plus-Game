@@ -1,4 +1,4 @@
 # RETTER-C-Plus-Plus-Game
-A game using C++
+A C++ Platformer Game
 
 Preview is available at https://www.youtube.com/watch?v=Ss4d3l4zxUY
